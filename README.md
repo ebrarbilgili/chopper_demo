@@ -4,6 +4,10 @@ You can manage your service architecture with **`Cubit(Bloc)`**, **`Freezed`** a
 
 ## Getting Started
 
+## SCREENSHOT
+![Simulator Screen Shot - iPhone SE (3rd generation) - 2022-08-27 at 15 12 29](https://user-images.githubusercontent.com/61385522/187030346-8ab07d23-1018-42e9-bd1c-e78cbe4030b5.png)
+
+
 ## APP SERVICE
 ![code-service](https://user-images.githubusercontent.com/61385522/187030227-a8083363-ef77-4955-93f8-f98b652c0d0a.png)
 

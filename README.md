@@ -1,16 +1,18 @@
 # chopper_demo
 
-A new Flutter project.
+You can manage your service architecture with **`Cubit(Bloc)`**, **`Freezed`** and **`Chopper`** Packages on Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## APP SERVICE
+![code-service](https://user-images.githubusercontent.com/61385522/187030227-a8083363-ef77-4955-93f8-f98b652c0d0a.png)
 
-A few resources to get you started if this is your first Flutter project:
+## APP MODEL
+![code-model](https://user-images.githubusercontent.com/61385522/187030224-d663dd69-3f99-44f7-b41c-c3293e30a5c0.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## APP CUBIT
+![code-cubit](https://user-images.githubusercontent.com/61385522/187030221-161ff43c-07f0-400f-ac1f-4ea239fa30e9.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APP VIEW
+![code](https://user-images.githubusercontent.com/61385522/187030200-81a13737-627e-4b51-aab4-411925e1a6e5.png)
+
